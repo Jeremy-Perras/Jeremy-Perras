@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🔭 I’m currently working on 42 last project
-- 🌱 Learning all about Unreal Engine 
+- 🌱 Learning all about implementation of video games
 - 📨 I'm open to any proposition
 
 ##### BIO
