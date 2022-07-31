@@ -1,16 +1,19 @@
 ### Hi there 👋 
 
-<!--
-**Jeremy-Perras/Jeremy-Perras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🇫🇷 I'm logistic engineer graduate from [SUPMECA](https://www.isae-supmeca.fr/), and make [42 cursus at mulhouse](https://www.42mulhouse.fr/).
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 42 last project
+- 🌱 Learning all about Unreal Engine 
+- 📨 I'm open to any proposition
+
+##### BIO
+
+- ⚙️ code : `C`, `C++`, `Python`, `VBA`
+- [Sample](https://github.com/Jeremy-Perras/Flux) of my Excel skill, still in progress
+
+#### :link: Links
+
+<a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-perras-1ba397167/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="jeremy.perras@outlook.fr"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
