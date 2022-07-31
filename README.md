@@ -11,8 +11,8 @@
 ##### BIO
 
 - ⚙️ code : `C`, `C++`, `Python`, `VBA`
-- [Sample](https://github.com/Jeremy-Perras/Flux) of my Excel skill, still in progress
-- 📚 Good good knowledge of : `continual improvement`, `Lean Management`, `Toyota improvement`
+- [Sample](https://github.com/Jeremy-Perras/Flux) of my Excel skills, still in progress
+- 📚 Good knowledge of : `continual improvement`, `Lean Management`, `Toyota improvement`
 
 #### :link: Links
 
