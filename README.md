@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-#### 🇫🇷 I'm logistic engineer graduate from [SUPMECA](https://www.isae-supmeca.fr/), and make [42 cursus at mulhouse](https://www.42mulhouse.fr/).
+#### 🇫🇷 I'm logistic engineer graduate from [SUPMECA](https://www.isae-supmeca.fr/), and make [42 cursus at Mulhouse](https://www.42mulhouse.fr/).
 
 ##### NOW
 
