@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🔭 I’m currently working on 42 last project
+- 🔭 I’m currently working  [Game Project](https://github.com/Jeremy-Perras/42_Game_Training)
 - 🌱 Learning all about implementation of video games
 - 📨 I'm open to any proposition
 
